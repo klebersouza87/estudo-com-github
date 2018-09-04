@@ -41,7 +41,7 @@ public class IntStreamOperations {
 			.forEach(value -> System.out.printf("%d ", value));
 		System.out.println();
 		
-		System.out.printf("Inteiros par, maior que 5: ");
+		System.out.print("Inteiros par, maior que 5: ");
 		IntPredicate even = value -> value % 2 == 0;
 		IntPredicate greaterThan5 = value -> value > 5;
 		IntStream.of(values)
