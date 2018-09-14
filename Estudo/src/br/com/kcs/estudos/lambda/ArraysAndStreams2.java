@@ -1,4 +1,4 @@
-package br.com.kcs.estudos;
+package br.com.kcs.estudos.lambda;
 
 //Fig. 17.7: ArraysAndStreams2.java
 //Demonstrating lambdas and streams with an array of Strings.
