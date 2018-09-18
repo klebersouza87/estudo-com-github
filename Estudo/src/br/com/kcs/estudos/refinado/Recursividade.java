@@ -1,4 +1,4 @@
-package br.com.kcs.estudos.lambda;
+package br.com.kcs.estudos.refinado;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;
