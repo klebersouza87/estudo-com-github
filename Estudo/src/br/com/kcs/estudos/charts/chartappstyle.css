@@ -1,0 +1,25 @@
+.chart {
+	-fx-clockwise: false;
+	-fx-pie-label-visible: true;
+	-fx-label-line-length: 5.0;
+	-fx-start-angle: 90.0;
+	-fx-legend-side: right;
+}
+
+.chart-pie-label {
+	-fx-font-size:9.0px;
+}
+
+.chart-content {
+	-fx-padding:1.0;
+}
+
+.default-color0.chart-pie {
+	-fx-pie-color:blue;
+}
+
+.chart-legend {
+	-fx-background-color: #f0e68c;
+	-fx-border-color: #696969;
+	-fx-border-width:1.0;
+}
